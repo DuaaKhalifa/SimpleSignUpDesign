@@ -1,0 +1,14 @@
+{
+  "name": "pickabook",
+  "version": "1.0.0",
+  "description": "Landing page for pick a book",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Duaa",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.0.0"
+  }
+}
